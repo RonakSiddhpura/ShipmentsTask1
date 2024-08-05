@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 
 Step to setup the project
-cd ShipmentsTask1
-npm install
-npm run dev
+-cd ShipmentsTask1
+-npm install
+-npm run dev
